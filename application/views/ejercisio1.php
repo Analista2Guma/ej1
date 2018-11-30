@@ -96,7 +96,7 @@
             		"url" : "<?php echo site_url("prueba1/mostrarDatos") ?>",
             		"type" : 'GET'
         			},
-
+//nuevo xcomentaeriop
         			"language":idioma_español,
             		"searching": false,
             		"order": [[ 0, "asc"]],
